@@ -1,0 +1,116 @@
+body {
+	background-color: #95ab93
+	}
+	
+header {
+	text-align: center;
+	font-family: "Courier New", "Times New Roman", serif;
+	font-weight: bold;
+}
+
+nav {
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 0;
+	font-family: "Courier New", "Times New Roman", serif;
+	margin-bottom: 4em;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline;
+	padding-left: 0.50%;
+	padding-right: 0.50%;
+	font-weight: bold;
+	}
+	
+nav li a {
+	text-decoration: none;
+	color: #000000;
+}
+	
+main {
+	font-family: "Courier New", "Times New Roman", serif;
+}
+
+img {
+	max-width: 20%;
+	margin-right: 5%;
+	margin-bottom: 10%;
+	float: left;
+	clear: left;
+}
+
+footer {
+	text-align: center;
+	background-color: #795f8a;
+	margin-top: 20em;
+}
+
+#TDWD {
+	margin-bottom: 25em;
+}
+
+#Crossover {
+	margin-bottom: 25em;
+}
+
+#TTKT {
+	margin-bottom: 25em;
+}
+
+#container {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.photo {
+	max-width: 10%
+}
+
+#currentwork {
+	margin-top: 12em;
+}
+
+table {
+	width: 700px;
+	background-color: #94adb3;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+}
+
+th {
+	text-align: left;
+}
+
+table, th, td {
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	padding-bottom: 4px;
+	padding-top: 4px;
+}
+
+th {
+	text-align: center;
+}
+
+caption {
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#gr_challenge_11633 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 2em;
+}
+
+#gr_updates_widget {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 2em;
+}
